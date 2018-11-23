@@ -1,5 +1,9 @@
   ## socket-netty-qq-server
   *  本服务作为仿QQ聊天室服务端
+  　　
+
+  ###  来源
+  https://github.com/kingston-csj/wechat
 
   ### 主要使用的第三方技术  
   *  Netty，通信网关  
@@ -24,10 +28,6 @@
 
   主界面  
   ![](/screenshots/main.png "主界面")  
-  　　
-
-  ###  来源
-  https://github.com/kingston-csj/wechat
   
    
   
